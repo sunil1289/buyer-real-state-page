@@ -17,13 +17,18 @@ cd buyer-real-state-page
 **2. Set up MongoDB**
 
 Download MongoDB Compass from https://www.mongodb.com/products/compass
+
 Open it and connect to mongodb://localhost:27017
 No need to create a database — it gets created automatically.
 
 **3. Create a .env file inside the backend folder**
 
 PORT=backend port usally 5000
+
+
 MONGO_URI=mongodb:  --- your mongodb local adress
+
+
 JWT_SECRET= your generted key
 
 **4. Run the backend**
