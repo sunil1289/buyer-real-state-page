@@ -42,7 +42,9 @@ You should see: Server running on port 5000 and MongoDB Connected
 **5. Run the frontend (open a new terminal)**
 
 cd frontend
+
 npm install
+
 npm start
 
 App opens at http://localhost:3000
@@ -53,15 +55,20 @@ App opens at http://localhost:3000
 
 Sign up — click Register, fill in your name, email and password, hit Create account
 
+
 Log in — enter your email and password, hit Sign in, you land on your dashboard
 
+
 Add a property — click Add property, fill in the name, location, price and optional photo, hit Save property
+
 
 Edit a property — click Edit on any card, update what you want, hit Save changes
 
 Remove a property — click Remove on any card and it disappears instantly
 
+
 Log out — click Sign out in the navbar and you go back to the login page
+
 
 ---
 
